@@ -1,12 +1,12 @@
 # User-Analysis
 
-## Project Description
+### Project Description
 This project involves creating a dashboard based on the provided dataset, following these steps:
 
 Three Key Metrics:
-+Number of registered users.
-+Number of users who started a trial.
-+Number of users who made a payment.
++ Number of registered users
++ Number of users who started a trial
++ Number of users who made a payment
 
 Chart of Monthly Registrations and Trial Conversions:
 Displays the number of registrations and conversions to trial for each registration month.
